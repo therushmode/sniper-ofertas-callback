@@ -1,0 +1,7 @@
+.env
+.env.*
+*.har
+*.log
+node_modules/
+output/
+.playwright-cli/
